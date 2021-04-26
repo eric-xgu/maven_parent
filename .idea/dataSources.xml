@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="XUGU" uuid="7d809efc-8bbf-4510-9a81-fe7132c57835">
+      <driver-ref>java.sql.Driver</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.xugu.cloudjdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:xugu://127.0.0.1:5138/system</jdbc-url>
+    </data-source>
+  </component>
+</project>
